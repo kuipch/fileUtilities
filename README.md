@@ -1,2 +1,3 @@
-# fileUtilities
-Python projects for finding and altering files
+# File Utilities
+## Overview
+A series of small python applications for identifying and altering files
